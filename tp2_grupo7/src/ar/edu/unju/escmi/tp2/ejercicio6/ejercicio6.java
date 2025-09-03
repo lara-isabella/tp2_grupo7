@@ -16,4 +16,3 @@ public class ejercicio6 {
     }
 }
 
-9
